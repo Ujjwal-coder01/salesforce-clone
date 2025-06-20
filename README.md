@@ -1,2 +1,30 @@
-# salesforce-clone
-A front-end clone of the Salesforce homepage using HTML, CSS, and JavaScript.
+# Salesforce Clone Website
+
+A responsive front-end clone of the Salesforce homepage, built using HTML, CSS, and JavaScript.
+
+## 📸 Preview
+
+![Preview Screenshot](assets/images/screenshot.png)
+
+## 🚀 Features
+
+- Responsive Navbar
+- Hero section with video
+- Product Cards (Sales Cloud, Service Cloud, etc.)
+- CTA Buttons (Start Free Trial, Watch Demo)
+- Footer (Optional)
+
+## 🛠️ Built With
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- VS Code
+
+## 📂 Project Structure
+
+```bash
+index.html       # Main HTML structure
+style.css        # Styling with Flexbox, Cards, etc.
+script.js        # JS interactivity (planned)
+assets/          # Images, video thumbnails, etc.
