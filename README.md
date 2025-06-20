@@ -4,7 +4,7 @@ A responsive front-end clone of the Salesforce homepage, built using HTML, CSS, 
 
 ## 📸 Preview
 
-![Preview Screenshot](assets/images/screenshot.png)
+![Preview Screenshot](assets/Screenshot 2025-06-19 150552.png)
 
 ## 🚀 Features
 
